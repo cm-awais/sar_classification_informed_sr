@@ -1,2 +1,1 @@
-# sar_classification_informed_sr
-Classification Informed Super Resolution
+# A Classification-Aware Super-Resolution Framework for Ship Targets in SAR Imagery
